@@ -2,6 +2,10 @@
 
 **Name:** Ayush Khamrui  
 **Student ID:** 2025AC05152
+- **GitHub repository:** [breast-cancer-model-comparison](https://github.com/Ayush-Khamrui/breast-cancer-model-comparison)
+- **Live Streamlit application:** [Diagnostic Model Studio](https://2025ac05152ayushkhamrui.streamlit.app/)
+  
+<img width="1710" height="1075" alt="2026-08-18_22-12-14" src="https://github.com/user-attachments/assets/bf73a54b-31df-402c-9368-34ba7b6a6ccc" />
 
 ## a. Problem statement
 
