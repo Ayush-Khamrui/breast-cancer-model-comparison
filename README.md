@@ -35,8 +35,8 @@ I used a stratified split so that the proportion of malignant and benign cases r
 
 ## c. Links
 
-- **GitHub repository:** I will add the public repository link here after pushing the final version.
-- **Live Streamlit application:** I will add the deployed application link here after deployment.
+- **GitHub repository:** [breast-cancer-model-comparison](https://github.com/Ayush-Khamrui/breast-cancer-model-comparison)
+- **Live Streamlit application:** [Diagnostic Model Studio](https://2025ac05152ayushkhamrui.streamlit.app/)
 
 ## d. Models used and results
 
